@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hello world! 👋, My name is Rahul Maurya. <br/>Welcome to my github profile. </h1>
 
-<h3 align="center">A passionate web developer with the enthusiasm to accept new challenges and readily available to collaborate/freelance on projects. I have 5+ years of professional experience in web development.</h3>
+<h3 align="center">A passionate web developer with the enthusiasm to accept new challenges and collaborate/freelance on projects. I have 5+ years of professional experience in web development.</h3>
+
+## ⚡️ A Few Quick Facts
 
 <p>
 
@@ -33,15 +35,15 @@ Here are some ideas to get you started:
 
 - 📙 Check out my <a href="https://drive.google.com/file/d/1oAwGO70HxYXwc_EzNCpgr0s7cOcVw6p4/view?usp=sharing" target="_blank"> resume </a> .
 
-- ⚡ Fun fact: I like **memes and puzzles**
+- 🎉 Fun fact: I like **memes and puzzles**
 
 </p>
 
-## 😬 Today's meme:
+## 😬 Today's joke:
 
 <p>
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </p>
 
@@ -75,5 +77,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luhar63&label=Profile%20views&color=0e75b6&style=flat" alt="luhar63" /> </p>
 </div>
+
 
 
