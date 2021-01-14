@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hello world! 👋, My name is Rahul Maurya. <br/>Welcome to my github profile. </h1>
 
-<h3 align="center">A passionate web developer with the enthusiasm to accept new challenges and collaborate/freelance on projects. I have 5+ years of professional experience in web development.</h3>
+<h3 align="center">A passionate web developer with the enthusiasm to accept new challenges and readily available to collaborate/freelance on projects. I have 5+ years of professional experience in web development.</h3>
 
 <p>
 
