@@ -57,18 +57,17 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luhar63&show_icons=true&locale=en&layout=compact" alt="luhar63" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luhar63&show_icons=true&locale=en&layout=compact" alt="luhar63" /></p> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luhar63&show_icons=true&locale=en" alt="luhar63" /></p>
 </div>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luhar63&" alt="luhar63" /></p> -->
 <div style="clearfix:both">
 <hr/>
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Lets connect and chat:</h2>
 <p align="center">
 <a href="https://twitter.com/luhar06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luhar06" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/maurya-rahul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luhar06" height="30" width="40" /></a>
-<a href="https://instagram.com/luhar63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luhar63" height="30" width="40" /></a>
 <a href="mailto:rahulmaurya.uf@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rahulmaurya.uf@gmail.com" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/luhar63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="luhar63" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rmaurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rmaurya" height="30" width="40" /></a>
@@ -77,6 +76,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luhar63&label=Profile%20views&color=0e75b6&style=flat" alt="luhar63" /> </p>
 </div>
+
 
 
 
