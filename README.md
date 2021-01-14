@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luhar63&" alt="luhar63" /></p> -->
 <div style="clearfix:both">
 <hr/>
-<h2 align="center">Lets connect and chat:</h2>
+<h2 align="center">Let's connect and chat:</h2>
 <p align="center">
 <a href="https://twitter.com/luhar06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luhar06" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/maurya-rahul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luhar06" height="30" width="40" /></a>
