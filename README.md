@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 </p>
 
-## 🚀 Today's meme:
+## 😬 Today's meme:
 
 <p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
 
 </p>
 
