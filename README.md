@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hello world! 👋, My name is Rahul Maurya. <br/>Welcome to my github profile. </h1>
 
-<h3 align="center">A passionate web developer with the enthusiasm to accept new challenges and collaborate/freelance on projects. I have 5+ years of professional experience in web development.</h3>
+<h3 align="center">A passionate web developer with the enthusiasm to accept new challenges and readily available to collaborate/freelance on projects. I have 5+ years of professional experience in web development.</h3>
 
 ## ⚡️ A Few Quick Facts
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luhar63&" alt="luhar63" /></p> -->
 <div style="clearfix:both">
 <hr/>
-<h2 align="center">Let's connect and chat:</h2>
+<h2 align="center">Let's connect:</h2>
 <p align="center">
 <a href="https://twitter.com/luhar06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luhar06" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/maurya-rahul/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luhar06" height="30" width="40" /></a>
