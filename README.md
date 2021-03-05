@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **MERN and marvel universe 🦸**.
 
-- 📙 Check out my <a href="https://drive.google.com/file/d/1oAwGO70HxYXwc_EzNCpgr0s7cOcVw6p4/view?usp=sharing" target="_blank"> resume </a> .
+- 📙 Check out my <a href="https://drive.google.com/file/d/1Li7PWa5cyiEUk2AX6JmLwKxAh-ezuCaV/view?usp=sharing" target="_blank"> resume </a> .
 
 - 🎉 Fun fact: I like **memes and puzzles**
 
