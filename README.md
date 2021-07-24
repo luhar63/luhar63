@@ -47,6 +47,14 @@ Here are some ideas to get you started:
 
 </p>
 
+## Some games to learn how to code
+<a href="https://play.elevatorsaga.com/" target="_blank">Elevator Saga</a> 
+<a href="https://mystery.knightlab.com/" target="_blank">SQL Murder Mystery</a> 
+<a href="https://flukeout.github.io/#" target="_blank">CSS Diner</a> 
+<a href="https://alexnisnevich.github.io/untrusted/" target="_blank">Untrusted</a> 
+
+
+
 ## 🚀 Some Tools I Use
 
 <p align="left"> 
