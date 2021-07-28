@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/Him
 
-- 👨‍🎓 Slated to graduate in May 2021
+- 👨‍🎓 CS grad from UF
 
 - 🌱 Learning system design and brushing up LC questions for job hunt.
 
